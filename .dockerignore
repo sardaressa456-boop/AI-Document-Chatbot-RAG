@@ -1,0 +1,15 @@
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+data/
+*.db
+*.db-wal
+*.db-shm
+.git/
+.gitignore
+__pycache__/
+*.py[cod]
+.pytest_cache/
+tests/
